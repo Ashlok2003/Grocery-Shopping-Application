@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "63042440603",
+    "project_number": "Create_your_own_google_services_file",
     "project_id": "grocery-shopping-e8b4b",
     "storage_bucket": "grocery-shopping-e8b4b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:63042440603:android:1132d2763e5c816044a53e",
+        "mobilesdk_app_id": "Create_your_own_google_services_file",
         "android_client_info": {
           "package_name": "com.rajendra.onlinedailygroceries"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDSmJSfskdmWZOyUpA7iX0PZYcieWw8Q5M"
+          "current_key": "Create_your_own_google_services_file"
         }
       ],
       "services": {
